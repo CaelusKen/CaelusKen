@@ -21,7 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [The CaelusKen Journey](https://github.com/The-Caelus-Ken-Journey), a collection of different community-focused websites and apps;
-- 🌱 The inspiration for me was the day I first create a Java Console project for university assignments, that's when I understand the importance of logical flow in programming and how complicated Java has become. Since then, I decided to pursure the flow of Javascript and add some other additions to my belt including Unity Game Dev and photography as well;
+- 🌱 My big inspiration comes from different influencer that contributes to the society, games like Detroit: Become Human or It Takes Two are also included.
+- 💻 My strong suit focus on developing UIs using Javascript and Typescript
 - 📫 How to reach me:
   + Email: caelus.khangthuan1209@gmail.com;
   + Facebook: [![Click here](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/caelus.ken)
