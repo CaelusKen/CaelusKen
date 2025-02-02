@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Caelus Ken (also known as Khang Thuận). I am a frontend developer, UI/UX Designer and Game Designer in Vietnam
+## Hi, I'm Caelus Ken (also known as Khang Thuận). I am a NextJS Frontend developer and Game Developer in Vietnam
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,8 +18,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Coffzy Shop];
-- 🌱 I’m currently learning NextJS and Unity, and also taking some time for learning about cameras and modeling;
+- 👨🏽‍💻 I’m currently working on [The CaelusKen Journey](https://github.com/The-Caelus-Ken-Journey), a collection of different community-focused websites and apps;
+- 🌱 I’m currently learning NextJS and Unity, and also taking some time for learning about photoshoot;
 - Personal Page: [Click here](https://likely-toggle-941832.framer.app)
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am pretty versatile since I can do more than just development;
@@ -35,7 +35,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
