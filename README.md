@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Khang Thuận (also known as Caelus Ken)
+## Khang Thuận
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
