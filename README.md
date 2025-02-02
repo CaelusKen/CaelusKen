@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Khang Thuận (also known as Caelus Ken). I am a NextJS Frontend developer and Game Developer in Vietnam
+## Khang Thuận (aka Caelus Ken)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
